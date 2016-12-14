@@ -22,8 +22,6 @@ private:
     bool checkWord(char *input,int length);
 
     int cachedValue=-1;
-
-
 };
 
 
